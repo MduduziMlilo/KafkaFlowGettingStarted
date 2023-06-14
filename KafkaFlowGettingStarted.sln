@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaFlowGettingStarted", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{8203C770-314E-442A-B7E2-C53B5D6F6AAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{6018677B-EEC4-443B-A736-643D0424042E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{8203C770-314E-442A-B7E2-C53B5D6F6AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8203C770-314E-442A-B7E2-C53B5D6F6AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8203C770-314E-442A-B7E2-C53B5D6F6AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6018677B-EEC4-443B-A736-643D0424042E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6018677B-EEC4-443B-A736-643D0424042E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6018677B-EEC4-443B-A736-643D0424042E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6018677B-EEC4-443B-A736-643D0424042E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
